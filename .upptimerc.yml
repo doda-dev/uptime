@@ -26,10 +26,10 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   cname: uptime.doda.dev
   theme: night
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.doda.dev/b/logo/doda-logo.svg
   name: 도다 서비스 상태
   introTitle: "**도다 서비스 상태**"
-  introMessage: 운영 중인 서비스들의 상태를 한 눈에 확인 할 수 있습니다.<br />Thanks to Upptime (and GitHub)
+  introMessage: 운영 중인 서비스들의 상태를 한 눈에 확인 할 수 있습니다.
   navbar:
     - title: 메인
       href: /

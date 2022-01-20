@@ -25,7 +25,7 @@ assignees: # Users to assign downtime issues (optional)
   - ddarkr
 status-website:
   cname: uptime.doda.dev
-  theme: dark
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 도다 서비스 상태
   introTitle: "**도다 서비스 상태**"

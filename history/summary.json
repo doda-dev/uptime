@@ -22,19 +22,19 @@
     "url": "https://wiki.ddark.kr",
     "icon": "https://favicons.githubusercontent.com/wiki.ddark.kr",
     "slug": "doda-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1081,
-    "timeDay": 1149,
-    "timeWeek": 1056,
-    "timeMonth": 1052,
+    "timeDay": 1174,
+    "timeWeek": 1063,
+    "timeMonth": 1054,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2022-03-19": 0
+      "2022-03-19": 12
     }
   },
   {

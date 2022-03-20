@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 106,
-    "timeWeek": 122,
+    "timeDay": 130,
+    "timeWeek": 120,
     "timeMonth": 128,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://wiki.ddark.kr",
     "icon": "https://favicons.githubusercontent.com/wiki.ddark.kr",
     "slug": "doda-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1084,
-    "timeDay": 1300,
-    "timeWeek": 1091,
-    "timeMonth": 1060,
-    "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "time": 1086,
+    "timeDay": 1358,
+    "timeWeek": 1122,
+    "timeMonth": 1068,
+    "timeYear": 1086,
+    "dailyMinutesDown": {
+      "2022-03-20": 0
+    }
   },
   {
     "name": "Muzip site",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 33,
-    "timeWeek": 103,
+    "timeDay": 60,
+    "timeWeek": 86,
     "timeMonth": 149,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 576,
-    "timeDay": 671,
+    "time": 575,
+    "timeDay": 599,
     "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 576,
+    "timeMonth": 581,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2022-01-22": 467
     }
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 820,
-    "timeWeek": 687,
+    "time": 681,
+    "timeDay": 705,
+    "timeWeek": 686,
     "timeMonth": 679,
-    "timeYear": 682,
+    "timeYear": 681,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 1202,
-    "timeWeek": 1012,
-    "timeMonth": 946,
-    "timeYear": 928,
+    "time": 927,
+    "timeDay": 1002,
+    "timeWeek": 1017,
+    "timeMonth": 947,
+    "timeYear": 927,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +123,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 189,
+    "timeDay": 162,
     "timeWeek": 160,
     "timeMonth": 154,
     "timeYear": 154,
@@ -138,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 665,
-    "timeDay": 811,
-    "timeWeek": 683,
-    "timeMonth": 668,
-    "timeYear": 665,
+    "time": 664,
+    "timeDay": 685,
+    "timeWeek": 682,
+    "timeMonth": 667,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2022-03-11": 20
     }

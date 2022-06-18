@@ -21,6 +21,8 @@ sites:
     port: 53
   - name: Doda DNS (https)
     url: https://dns.doda.dev
+  - name: Vaultwarden
+    url: https://bitwarden.doda.dev
 assignees: # Users to assign downtime issues (optional)
   - ddarkr
 status-website:
@@ -42,6 +44,5 @@ commitMessages:
 workflowSchedule:
   responseTime: "0 */6 * * *"
   uptime: "*/2 * * * *"
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

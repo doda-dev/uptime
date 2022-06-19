@@ -42,7 +42,8 @@ commitMessages:
   commitAuthorName: "도다 봇"
   commitAuthorEmail: "98084875+doda-bot@users.noreply.github.com"
 workflowSchedule:
-  responseTime: "0 */6 * * *"
+  graphs: "0 */1 * * *"
+  responseTime: "0 */1 * * *"
   uptime: "*/2 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

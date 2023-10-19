@@ -1,0 +1,85 @@
+# Change these first
+owner: doda-dev # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: doda.dev
+    url: https://doda.dev
+  - name: DodaWiki
+    url: https://wiki.ddark.kr
+  - name: DodaWiki Static
+    url: https://wiki-static.ddark.kr
+    expectedStatusCodes:
+      - 404
+  - name: Muzip site
+    url: https://muzip.xyz
+  - name: Muzip API (Graph v2)
+    url: https://v2-api.muzip.xyz
+  - name: dodaGit
+    url: https://git.doda.dev
+  - name: Matomo (Analytics)
+    url: https://matomo.doda.dev
+  - name: Doda DNS (TCP 53)
+    check: "tcp-ping"
+    url: 144.24.88.232
+    port: 53
+  - name: Doda DNS (https)
+    url: https://dns.doda.dev
+  - name: Vaultwarden
+    url: https://bitwarden.doda.dev
+  - name: Vaultwarden Icons CDN
+    url: https://bitwarden-cdn.doda.dev/icons/google.com/icon.png
+    expectedStatusCodes:
+      - 200
+  - name: Static (global)
+    url: https://static.doda.dev/hello
+    expectedStatusCodes:
+      - 200
+  - name: serve (legacy)
+    url: https://serve.ddark.kr
+    expectedStatusCodes:
+      - 200
+  - name: ha.ddark.kr
+    url: https://ha.ddark.kr/status
+    expectedStatusCodes:
+      - 200
+  - name: Doda Mail Server (Web)
+    url: https://mail.doda.dev
+    expectedStatusCodes:
+      - 200
+  - name: Doda Mail Server (IMAP)
+    check: "tcp-ping"
+    url: mail.doda.dev
+    port: 993
+  - name: Guacamole
+    url: https://guac.doda.dev/api/languages
+    expectedStatusCodes:
+      - 200
+  - name: Vault API (REST v1)
+    url: https://vault.api.doda.dev/v1/info
+    expectedStatusCodes:
+      - 200
+assignees: # Users to assign downtime issues (optional)
+  - ddarkr
+status-website:
+  cname: uptime.doda.dev
+  theme: night
+  logoUrl: https://static.doda.dev/b/logo/doda-logo.svg
+  name: 도다 서비스 상태
+  introTitle: "**도다 서비스 상태**"
+  introMessage: 운영 중인 서비스들의 상태를 한 눈에 확인 할 수 있습니다.
+  navbar:
+    - title: 메인
+      href: /
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+commitMessages:
+  commitAuthorName: "도다 봇"
+  commitAuthorEmail: "98084875+doda-bot@users.noreply.github.com"
+workflowSchedule:
+  graphs: "0 */1 * * *"
+  responseTime: "0 */1 * * *"
+  uptime: "*/2 * * * *"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration

@@ -1,7 +1,7 @@
 url: https://ha.ddark.kr/status
-status: down
-code: 500
-responseTime: 277
-lastUpdated: 2023-10-30T20:10:13.922Z
+status: up
+code: 200
+responseTime: 284
+lastUpdated: 2023-10-30T20:31:03.482Z
 startTime: 2023-09-28T14:50:12.598Z
 generator: Upptime <https://github.com/upptime/upptime>

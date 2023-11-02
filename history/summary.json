@@ -4,19 +4,19 @@
     "url": "https://doda.dev",
     "icon": "https://icons.duckduckgo.com/ip3/doda.dev.ico",
     "slug": "doda-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 192,
+    "timeDay": 191,
     "timeWeek": 231,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 17
     }
   },
   {

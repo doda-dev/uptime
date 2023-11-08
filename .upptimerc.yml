@@ -5,12 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: doda.dev
     url: https://doda.dev
-  - name: DodaWiki
-    url: https://wiki.ddark.kr
-  - name: DodaWiki Static
-    url: https://wiki-static.ddark.kr
-    expectedStatusCodes:
-      - 404
   - name: Muzip site
     url: https://muzip.xyz
   - name: Muzip API (Graph v2)
@@ -19,12 +13,6 @@ sites:
     url: https://git.doda.dev
   - name: Matomo (Analytics)
     url: https://matomo.doda.dev
-  - name: Doda DNS (TCP 53)
-    check: "tcp-ping"
-    url: 144.24.88.232
-    port: 53
-  - name: Doda DNS (https)
-    url: https://dns.doda.dev
   - name: Vaultwarden
     url: https://bitwarden.doda.dev
   - name: Vaultwarden Icons CDN

@@ -43,10 +43,6 @@ sites:
     url: https://guac.doda.dev/api/languages
     expectedStatusCodes:
       - 200
-  - name: Vault API (REST v1)
-    url: https://vault.api.doda.dev/v1/info
-    expectedStatusCodes:
-      - 200
 assignees: # Users to assign downtime issues (optional)
   - ddarkr
 status-website:

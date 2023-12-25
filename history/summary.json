@@ -48,9 +48,9 @@
     "slug": "muzip-api-graph-v2",
     "status": "up",
     "uptime": "83.81%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "1.39%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "1.40%",
     "uptimeYear": "69.01%",
     "time": 588,
     "timeDay": 354,
@@ -324,18 +324,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden-icon.doda.dev.ico",
     "slug": "vaultwarden-icon-proxy",
     "status": "down",
-    "uptime": "1.14%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "1.14%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "1.14%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-25": 1
+      "2023-12-25": 3
     }
   },
   {

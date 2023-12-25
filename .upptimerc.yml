@@ -8,15 +8,15 @@ sites:
   - name: Muzip site
     url: https://muzip.xyz
   - name: Muzip API (Graph v2)
-    url: https://v2-api.muzip.xyz
+    url: https://api-rd.muzip.xyz
   - name: dodaGit
     url: https://git.doda.dev
   - name: Matomo (Analytics)
     url: https://matomo.doda.dev
   - name: Vaultwarden
     url: https://bitwarden.doda.dev
-  - name: Vaultwarden Icons CDN
-    url: https://bitwarden-cdn.doda.dev/icons/google.com/icon.png
+  - name: Vaultwarden Icon Proxy
+    url: https://bitwarden-icon.doda.dev/google.com/icon.png
     expectedStatusCodes:
       - 200
   - name: Static (global)

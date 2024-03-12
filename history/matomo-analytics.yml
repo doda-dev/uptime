@@ -1,7 +1,7 @@
 url: https://matomo.doda.dev
-status: down
-code: 500
-responseTime: 615
-lastUpdated: 2024-03-12T11:50:55.307Z
+status: up
+code: 200
+responseTime: 2323
+lastUpdated: 2024-03-12T12:15:26.758Z
 startTime: 2022-01-20T09:10:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>

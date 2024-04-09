@@ -9,10 +9,8 @@ sites:
     url: https://muzip.xyz
   - name: Muzip API (Graph v2)
     url: https://api-rd.muzip.xyz
-  - name: dodaGit
-    url: https://git.doda.dev
-  - name: Matomo (Analytics)
-    url: https://matomo.doda.dev
+  - name: Umami Analytics
+    url: https://umami.doda.dev
   - name: Vaultwarden
     url: https://bitwarden.doda.dev
   - name: Vaultwarden Icon Proxy

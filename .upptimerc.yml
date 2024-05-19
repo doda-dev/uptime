@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: doda.dev
     url: https://doda.dev
+  - name: wiki.doda.dev
+    url: https://wiki.doda.dev
   - name: Muzip site
     url: https://muzip.xyz
   - name: Muzip API (Graph v2)

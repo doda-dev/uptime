@@ -41,6 +41,14 @@ sites:
     url: https://guac.doda.dev/api/languages
     expectedStatusCodes:
       - 200
+  - name: Doda DNS (HTTPS)
+    url: https://dns.doda.dev/dns-query
+    expectedStatusCodes:
+      - 400
+  - name: Doda DNS (TLS)
+    check: "tcp-ping"
+    url: dns.doda.dev
+    port: 853
 assignees: # Users to assign downtime issues (optional)
   - ddarkr
 status-website:

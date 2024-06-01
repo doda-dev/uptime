@@ -274,9 +274,9 @@
     "slug": "doda-mail-server-web",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 457,
     "timeDay": 459,
@@ -284,7 +284,7 @@
     "timeMonth": 453,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-06-01": 3
+      "2024-06-01": 15
     }
   },
   {
@@ -292,11 +292,11 @@
     "url": "mail.doda.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "doda-mail-server-imap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 141,
@@ -304,7 +304,7 @@
     "timeMonth": 139,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-06-01": 3
+      "2024-06-01": 12
     }
   },
   {
@@ -338,11 +338,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.doda.dev.ico",
     "slug": "doda-dns-https",
     "status": "up",
-    "uptime": "27.67%",
+    "uptime": "27.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.56%",
+    "uptimeYear": "91.57%",
     "time": 635,
     "timeDay": 544,
     "timeWeek": 552,

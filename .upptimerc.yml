@@ -39,10 +39,6 @@ sites:
     check: "tcp-ping"
     url: mail.doda.dev
     port: 993
-  - name: Guacamole
-    url: https://guac.doda.dev/api/languages
-    expectedStatusCodes:
-      - 200
   - name: Doda DNS (HTTPS)
     url: https://dns.doda.dev/dns-query
     expectedStatusCodes:

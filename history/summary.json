@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 251,
-    "timeWeek": 224,
-    "timeMonth": 201,
+    "timeDay": 201,
+    "timeWeek": 217,
+    "timeMonth": 200,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-01-17": 12,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 234,
-    "timeWeek": 225,
-    "timeMonth": 258,
+    "timeDay": 225,
+    "timeWeek": 224,
+    "timeMonth": 253,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 92,
-    "timeWeek": 105,
-    "timeMonth": 99,
+    "timeDay": 118,
+    "timeWeek": 106,
+    "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2024-01-17": 12
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-rd.muzip.xyz.ico",
     "slug": "muzip-api-graph-v2",
     "status": "up",
-    "uptime": "88.05%",
+    "uptime": "88.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "86.53%",
     "time": 486,
-    "timeDay": 399,
-    "timeWeek": 439,
-    "timeMonth": 441,
+    "timeDay": 406,
+    "timeWeek": 437,
+    "timeMonth": 442,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-09-09": 12,
@@ -137,8 +137,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 154,
-      "2023-09-27": 739
+      "2023-11-09": 154
     }
   },
   {
@@ -153,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 159,
+    "timeDay": 181,
     "timeWeek": 166,
-    "timeMonth": 184,
+    "timeMonth": 185,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -172,8 +171,8 @@
     "uptimeYear": "99.61%",
     "time": 559,
     "timeDay": 610,
-    "timeWeek": 614,
-    "timeMonth": 590,
+    "timeWeek": 616,
+    "timeMonth": 591,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-07-01": 6,
@@ -181,8 +180,7 @@
       "2024-02-06": 290,
       "2024-02-05": 5,
       "2024-02-02": 18,
-      "2023-12-25": 14,
-      "2023-09-27": 702
+      "2023-12-25": 14
     }
   },
   {
@@ -197,9 +195,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 191,
-    "timeDay": 176,
-    "timeWeek": 181,
-    "timeMonth": 182,
+    "timeDay": 211,
+    "timeWeek": 183,
+    "timeMonth": 184,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2024-07-01": 10,
@@ -220,9 +218,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 185,
-    "timeWeek": 180,
-    "timeMonth": 184,
+    "timeDay": 214,
+    "timeWeek": 182,
+    "timeMonth": 185,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -238,9 +236,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 302,
-    "timeWeek": 306,
-    "timeMonth": 309,
+    "timeDay": 571,
+    "timeWeek": 348,
+    "timeMonth": 319,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2024-03-28": 4
@@ -258,9 +256,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 292,
-    "timeDay": 267,
-    "timeWeek": 289,
-    "timeMonth": 294,
+    "timeDay": 266,
+    "timeWeek": 284,
+    "timeMonth": 295,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2023-10-30": 33
@@ -279,8 +277,8 @@
     "uptimeYear": "99.98%",
     "time": 465,
     "timeDay": 465,
-    "timeWeek": 505,
-    "timeMonth": 494,
+    "timeWeek": 498,
+    "timeMonth": 492,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2024-06-01": 94
@@ -298,8 +296,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 134,
-    "timeWeek": 143,
+    "timeDay": 137,
+    "timeWeek": 141,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -312,14 +310,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.doda.dev.ico",
     "slug": "doda-dns-https",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 616,
-    "timeDay": 651,
-    "timeWeek": 626,
+    "timeDay": 612,
+    "timeWeek": 620,
     "timeMonth": 606,
     "timeYear": 616,
     "dailyMinutesDown": {
@@ -339,8 +337,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 160,
-    "timeWeek": 167,
+    "timeDay": 162,
+    "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {}

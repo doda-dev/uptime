@@ -40,12 +40,12 @@ sites:
     url: mail.doda.dev
     port: 993
   - name: Doda DNS (HTTPS)
-    url: https://dns.doda.dev/dns-query
+    url: https://dns.doda.im/dns-query
     expectedStatusCodes:
       - 400
   - name: Doda DNS (TLS)
     check: "tcp-ping"
-    url: dns.doda.dev
+    url: dns.doda.im
     port: 853
 assignees: # Users to assign downtime issues (optional)
   - ddarkr

@@ -31,14 +31,6 @@ sites:
     url: https://ha.ddark.kr/status
     expectedStatusCodes:
       - 200
-  - name: Doda Mail Server (Web)
-    url: https://mail.doda.dev
-    expectedStatusCodes:
-      - 200
-  - name: Doda Mail Server (IMAP)
-    check: "tcp-ping"
-    url: mail.doda.dev
-    port: 993
   - name: Doda DNS (HTTPS)
     url: https://dns.doda.im/dns-query
     expectedStatusCodes:

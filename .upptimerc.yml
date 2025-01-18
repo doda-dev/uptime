@@ -31,6 +31,10 @@ sites:
     url: https://ha.ddark.kr/status
     expectedStatusCodes:
       - 200
+  - name: static.doda.im
+    url: https://static.doda.im/status
+    expectedStatusCodes:
+      - 200
   - name: Doda DNS (HTTPS)
     url: https://dns.doda.im/dns-query
     expectedStatusCodes:

@@ -19,14 +19,6 @@ sites:
     url: https://bitwarden-icon.doda.dev/google.com/icon.png
     expectedStatusCodes:
       - 200
-  - name: Static (global)
-    url: https://static.doda.dev/hello
-    expectedStatusCodes:
-      - 200
-  - name: serve (legacy)
-    url: https://serve.ddark.kr
-    expectedStatusCodes:
-      - 200
   - name: ha.ddark.kr
     url: https://ha.ddark.kr/status
     expectedStatusCodes:

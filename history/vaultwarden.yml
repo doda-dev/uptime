@@ -1,7 +1,7 @@
 url: https://bitwarden.doda.dev
-status: down
-code: 502
-responseTime: 651
-lastUpdated: 2025-08-02T15:28:50.851Z
+status: up
+code: 200
+responseTime: 711
+lastUpdated: 2025-08-02T15:45:53.436Z
 startTime: 2022-06-18T09:44:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>

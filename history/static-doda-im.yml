@@ -1,7 +1,7 @@
 url: https://static.doda.im/status
-status: down
-code: 500
-responseTime: 277
-lastUpdated: 2025-11-18T11:55:27.346Z
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2025-11-18T12:31:24.606Z
 startTime: 2025-01-18T06:41:28.189Z
 generator: Upptime <https://github.com/upptime/upptime>

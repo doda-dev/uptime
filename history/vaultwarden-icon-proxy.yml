@@ -1,7 +1,7 @@
 url: https://bitwarden-icon.doda.dev/google.com/icon.png
-status: up
-code: 200
-responseTime: 1379
-lastUpdated: 2025-11-18T11:13:17.904Z
+status: down
+code: 500
+responseTime: 151
+lastUpdated: 2025-11-18T11:55:21.828Z
 startTime: 2023-12-25T06:42:26.425Z
 generator: Upptime <https://github.com/upptime/upptime>

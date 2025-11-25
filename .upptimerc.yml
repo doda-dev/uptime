@@ -56,6 +56,6 @@ commitMessages:
 workflowSchedule:
   graphs: "0 */1 * * *"
   responseTime: "0 */1 * * *"
-  uptime: "*/2 * * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

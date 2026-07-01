@@ -1,7 +1,7 @@
 url: https://dns.doda.im/dns-query
-status: down
-code: 502
-responseTime: 3673
-lastUpdated: 2026-07-01T12:32:18.513Z
+status: up
+code: 400
+responseTime: 677
+lastUpdated: 2026-07-01T12:49:47.918Z
 startTime: 2024-05-19T04:57:36.578Z
 generator: Upptime <https://github.com/upptime/upptime>
